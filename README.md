@@ -1,102 +1,157 @@
 <h1 align="center">Hi 👋, I'm Shreyansh Pandey</h1>
-<h3 align="center">Software Engineer | AI Enthusiast | Full-Stack Developer</h3>
+
+<h3 align="center">
+Software Engineer • Full-Stack Developer • AI Enthusiast
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Full-Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=800&center=true&vCenter=true&width=650&lines=Software+Engineer;Full-Stack+Developer;AI+Application+Developer;FastAPI+%7C+React+%7C+Next.js;Always+Learning+New+Technologies"/>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Shreyansh831&label=Profile+Views&color=0e75b6&style=flat"/>
+<img src="https://img.shields.io/github/followers/Shreyansh831?label=Followers&style=social"/>
+<img src="https://img.shields.io/github/stars/Shreyansh831?affiliations=OWNER&style=social"/>
 </p>
 
 ---
 
-## 🚀 About Me
+# 💫 About Me
 
-- 🎓 B.Tech in Computer Science & Engineering
-- 💻 Passionate about Software Development & AI
-- 🌱 Currently improving Full-Stack Development & System Design
-- 🚀 Building AI-powered applications using FastAPI, React, and Python
-- 📫 Reach me: **your-email@example.com**
-- ⚡ Fun Fact: I enjoy solving real-world problems through code.
+🎓 Computer Science Graduate
+
+💻 Passionate about Full-Stack Development and Artificial Intelligence
+
+🚀 Building scalable web applications using React, Next.js, FastAPI and Python
+
+🌱 Currently exploring
+- System Design
+- Cloud Computing
+- GenAI Applications
+
+🎯 Goal: Become a Software Engineer at a product-based company.
 
 ---
 
-## 🛠️ Tech Stack
+# 💻 Tech Stack
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+
+Python • Java • **JavaScript** • C++ • SQL
 
 ### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+
+React • Next.js • HTML5 • CSS3 • Tailwind CSS
 
 ### Backend
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
 
-### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
+FastAPI • Flask • Node.js
+
+### Databases
+
+PostgreSQL • MongoDB • SQLite
+
+### AI / ML
+
+LangChain • LangGraph • Scikit-Learn • Pandas • NumPy
 
 ### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
+
+Git • GitHub • VS Code • Postman
 
 ---
 
-## 📌 Featured Projects
+# 🚀 Featured Projects
 
 ### 🤖 AI-HCP-CRM
-AI-powered CRM for healthcare professionals using FastAPI, LangGraph, LangChain, and React.
+
+AI-powered CRM using FastAPI, LangGraph, LangChain and React.
+
+---
 
 ### 🌾 Krishak
-Smart agriculture platform with crop disease detection, weather forecasting, and AI features.
+
+Smart Agriculture Platform featuring:
+
+- Crop Disease Detection
+- Weather Forecast
+- AI Chat
+- Animal Intrusion Detection
+
+---
 
 ### 📊 Dashboard M-O-N-K-Y
-Modern analytics dashboard built with Next.js and React.
+
+Analytics Dashboard built using Next.js.
+
+---
 
 ### 📦 Inventory Management System
-Inventory management application with authentication, CRUD operations, and reporting.
+
+Authentication, CRUD, Reports and Dashboard.
 
 ---
 
-## 📈 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
+
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Shreyansh831&show_icons=true&theme=tokyonight"/>
+
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Shreyansh831&theme=tokyonight"/>
+
 </p>
 
 <p align="center">
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyansh831&layout=compact&theme=tokyonight"/>
+
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+# 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Shreyansh831&theme=tokyonight&margin-w=15"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shreyansh831&theme=tokyo-night"/>
+
 </p>
 
 ---
 
-## 🌐 Connect with Me
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Shreyansh831&theme=tokyonight&margin-w=15"/>
+
+</p>
+
+---
+
+# 🤝 Connect With Me
 
 <p align="left">
+
 <a href="https://github.com/Shreyansh831">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+
+<a href="YOUR_LINKEDIN_LINK">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
 </p>
 
 ---
 
 <p align="center">
-⭐ Thanks for visiting my profile! ⭐
+
+⭐ If you like my work, consider giving a star to my repositories!
+
 </p>
